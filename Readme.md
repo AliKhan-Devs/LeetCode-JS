@@ -24,20 +24,17 @@ This repository is a work in progress and will be updated regularly as I solve m
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://alikhan-devs.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-alikhan-devs.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alikhandevs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  &nbsp;
+  <a href="mailto:alikhandevs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/alikhan-devs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/alikhan-devs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  &nbsp;
+  <a href="https://wa.me/923429327224" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
----
-
-⭐ *Thank you for visiting this repository! If you find it helpful, feel free to give it a star.*
+<p align="center">Made with ❤️ by <strong>Ali Khan</strong></p>

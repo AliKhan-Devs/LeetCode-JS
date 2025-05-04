@@ -22,7 +22,7 @@ This repository is a work in progress and will be updated regularly as I solve m
 ---
 
 ## 🌐 Connect with Me
-
+<!-- Footer -->
 <p align="center">
   <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />

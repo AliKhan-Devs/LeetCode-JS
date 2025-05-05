@@ -1,12 +1,12 @@
 # 💻 LeetCode JavaScript Solutions
-
+<!-- Intro -->
 This repository contains my JavaScript solutions to various problems from [LeetCode](https://leetcode.com/).  
 It serves as a personal collection of code written to practice and improve my problem-solving skills using JavaScript.
 
 Feel free to explore the solutions and use them for learning and reference purposes.
 
 ---
-
+<!-- purpose -->
 ## 🚀 Purpose
 
 - Practice Data Structures and Algorithms
@@ -14,7 +14,7 @@ Feel free to explore the solutions and use them for learning and reference purpo
 - Track progress on LeetCode
 
 ---
-
+<!-- Note -->
 ## 📌 Note
 
 This repository is a work in progress and will be updated regularly as I solve more problems.

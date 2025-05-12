@@ -7,11 +7,11 @@ Feel free to explore the solutions and use them for learning and reference purpo
 
 ---
 <!-- purpose -->
-<!-- ## 🚀 Purpose
+## 🚀 Purpose
 
 - Practice Data Structures and Algorithms
 - Strengthen JavaScript skills
-- Track progress on LeetCode -->
+- Track progress on LeetCode
 
 ---
 <!-- Note -->
